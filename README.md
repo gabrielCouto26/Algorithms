@@ -1,1 +1,1 @@
-# My solution for some algorithms
+# My solution for some algorithms in JavaScript
